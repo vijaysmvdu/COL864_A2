@@ -1,3 +1,3 @@
-#Liver detection and segmentation from CT Scans
+Liver detection and segmentation from CT Scans
 
 
